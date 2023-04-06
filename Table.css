@@ -1,0 +1,31 @@
+.bg{
+    background-color: rgb(246, 149, 149);
+}
+
+.bg2{
+    background-color: rgb(149, 188, 246);
+}
+
+.bg3{
+    background-color: rgb(255, 255, 9);
+}
+
+.bg4{
+    background-color: rgb(102, 225, 119);
+}
+
+.bg4:hover{
+        font-size: 51px;
+}
+
+.bg3:hover{
+    font-size: 51px;
+}
+
+.bg2:hover{
+    font-size: 51px;
+}
+
+.bg:hover{
+    font-size: 51px;
+}
